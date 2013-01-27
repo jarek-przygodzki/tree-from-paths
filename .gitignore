@@ -4,6 +4,9 @@
 *.jar
 *.war
 *.ear
-.gradle
+.gradle/
+.classpath
+.project
+.settings/
 /build
 /out
